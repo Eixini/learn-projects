@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birds", "Birds.csproj", "{AFBD9537-2451-4F87-B6A1-194F39FEC970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBD9537-2451-4F87-B6A1-194F39FEC970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBD9537-2451-4F87-B6A1-194F39FEC970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBD9537-2451-4F87-B6A1-194F39FEC970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBD9537-2451-4F87-B6A1-194F39FEC970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB6F798-504B-48B1-ACF2-62B815FA1B04}
+	EndGlobalSection
+EndGlobal
