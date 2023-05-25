@@ -1,0 +1,1 @@
+puts "String object".length
